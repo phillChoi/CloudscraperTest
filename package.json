@@ -1,0 +1,25 @@
+{
+  "name": "CloudscraperTest",
+  "version": "1.0.0",
+  "description": "Testing out Cloudscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillChoi/CloudscraperTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillChoi/CloudscraperTest/issues"
+  },
+  "homepage": "https://github.com/phillChoi/CloudscraperTest#readme",
+  "dependencies": {
+    "cheerio": "*",
+    "cloudscraper": "^4.6.0",
+    "request": "^2.88.2"
+  }
+}
